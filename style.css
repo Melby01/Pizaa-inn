@@ -1,0 +1,22 @@
+nav{
+    font-size:30px;
+    text-decoration: none;
+    display: flex;
+    justify-content: space-evenly;
+}
+nav>a{
+    color: black;
+    margin-right: 3%;
+    margin-top: 1%;
+    text-decoration: none ;
+} 
+/* visited link */
+a:visited {
+    color: green;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: hotpink;
+  }
+  
