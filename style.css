@@ -2,6 +2,26 @@
     font-family: 'Kaushan Script', cursive;
     font-size: 2em;
 }
+nav{
+    font-size:30px;
+    text-decoration: none;
+    display: flex;
+    justify-content: flex-end;
+    margin: 1% 5% 5% 5%;
+    padding: 2% 5% 5% 5%;
+    border: 2px aquamarine;
+    box-shadow: 2vh 1vh 3vh .5vh orange;
+    width: 80%;
+    background-color:black;
+     
+}
+nav>a{
+    color: white;
+    margin-right: 3%;
+    margin-top: 1%;
+    text-decoration: none;
+   
+} 
 body{
    background-color: maroon;
 }
@@ -20,7 +40,7 @@ body{
  
 .about {
     text-align: center;
-    font-size: 1.25em;
+    font-size: 30px;
     font-weight: bold;
     margin-left: 50px;
     margin-right: 50px;
@@ -87,16 +107,8 @@ h2 {
     font-family: 'Kaushan Script', cursive;
     font-size: 3em;
 }
-.back img{
-    width: 5%;
-    display: inline;
-    background-color: black;
-    margin-left: 10px;
-    margin-top: 10px;
-}
-.nav-link{
-    color: #FDB913;
-}
+ 
+ 
 .banner{
     color: #FDB913;
     background-image: url("https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/168964.jpg");
