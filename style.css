@@ -6,12 +6,11 @@ nav{
     font-size:30px;
     text-decoration: none;
     display: flex;
-    justify-content: flex-end;
+    justify-content: space-evenly;
     margin: 1% 5% 5% 5%;
     padding: 2% 5% 5% 5%;
-    border: 2px aquamarine;
+    border: 2px;
     box-shadow: 2vh 1vh 3vh .5vh orange;
-    width: 80%;
     background-color:black;
      
 }
@@ -20,7 +19,6 @@ nav>a{
     margin-right: 3%;
     margin-top: 1%;
     text-decoration: none;
-   
 } 
 body{
    background-color: maroon;
@@ -45,6 +43,14 @@ body{
     margin-left: 50px;
     margin-right: 50px;
     color:  #FDB913;
+}
+h2{
+    font-size: 40px;
+    margin: 1% 5% 5% 5%;
+    padding: 2% 5% 5% 5%;
+    border: 2px;
+    box-shadow: 2vh 1vh 3vh .5vh orange;
+    background-color:black;
 }
 .card {
     width: 80%;
