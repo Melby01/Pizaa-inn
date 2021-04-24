@@ -36,7 +36,7 @@ body{
     margin-top: 60px;
 }
  
-.about {
+#about {
     text-align: center;
     font-size: 30px;
     font-weight: bold;
@@ -44,25 +44,36 @@ body{
     margin-right: 50px;
     color:  #FDB913;
 }
-h2{
-    font-size: 40px;
+h3{
+    font-size: 50px;
     margin: 1% 5% 5% 5%;
     padding: 2% 5% 5% 5%;
     border: 2px;
     box-shadow: 2vh 1vh 3vh .5vh orange;
     background-color:black;
 }
+h2{
+    font-size: 50px;
+    margin: 1% 5% 5% 5%;
+    padding: 2% 5% 5% 5%;
+    border: 2px;
+    box-shadow: 2vh 1vh 3vh .5vh orange;
+    background-color:black;
+}
+
 .card {
     width: 80%;
-    min-height: 460px;
+    min-height: 40px;
     margin-top: 60px;
-    box-shadow: 0px 8px 60px -10px rgba(13, 28, 39, 0.6);
-    background: #fff;
+    box-shadow: 0px 8px 60px -10px orange;
+    background:black;
     border-radius: 12px;
     max-width: 700px;
     position: relative;
-    color:  #FDB913;
+    color: orange;
+    text-align: center;
 }
+     
 h2 {
     text-align: center;
     color: #FDB913
