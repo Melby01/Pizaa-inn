@@ -52,6 +52,14 @@ h3{
     box-shadow: 2vh 1vh 3vh .5vh orange;
     background-color:black;
 }
+h4{
+    font-size: 50px;
+    margin: 1% 5% 5% 5%;
+    padding: 2% 5% 5% 5%;
+    border: 2px;
+    box-shadow: 2vh 1vh 3vh .5vh orange;
+    background-color:black;
+}
 h2{
     font-size: 50px;
     margin: 1% 5% 5% 5%;
@@ -59,6 +67,15 @@ h2{
     border: 2px;
     box-shadow: 2vh 1vh 3vh .5vh orange;
     background-color:black;
+}
+.types{
+    height: 300px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    
+    
+     
 }
 
 .card {
@@ -72,6 +89,7 @@ h2{
     position: relative;
     color: orange;
     text-align: center;
+    font-size: 30px;
 }
      
 h2 {
