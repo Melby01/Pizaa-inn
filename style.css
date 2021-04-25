@@ -59,6 +59,8 @@ h4{
     border: 2px;
     box-shadow: 2vh 1vh 3vh .5vh orange;
     background-color:black;
+    color: orange;
+    text-align: center;
 }
 h2{
     font-size: 50px;
