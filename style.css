@@ -99,6 +99,7 @@ h4{
     color: orange;
     text-align: center;
     font-size: 30px;
+    
 }
      
 h2 {
@@ -131,6 +132,9 @@ h2 {
 #order-details>h5, h5 {
     font-family: 'Kaushan Script', cursive;
 }
+#checkout-btn{
+    
+}
 .footer {
     text-align: center;
     font-size: 25px;
@@ -139,11 +143,7 @@ h2 {
 .footer-link {
     color: #FDB913
 }
-.icons{
-    size: 50%;
-    width: 50%;
-    margin-right: 10px;
-}
+ 
 .back h5{
     color:#FDB913;
     text-align: center;
