@@ -32,7 +32,7 @@ $(document).ready(function () {
       } else if (this.toppings === "sausage") {
         this.pizzaPrice += 150;
       } else if (this.toppings === "bacon") {
-        this.pizzaPrice += 300;
+        this.pizzaPrice += 200;
       } else if (this.toppings === "mushrooms") {
         this.pizzaPrice += 150;
       } else if (this.toppings === "chicken") {
